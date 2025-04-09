@@ -19,6 +19,9 @@ h1 {
     margin-bottom: 20px;
     color: #ffffff;
 }
+p{
+    color: #ddd;
+}
 
 input {
     width: 100%;

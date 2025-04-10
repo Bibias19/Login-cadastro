@@ -14,11 +14,11 @@
             <input type="text" placeholder="Usuário">
             <button type="button" onclick="redirect()">Código</a></button>
         </form>
+    </div>
         <script>
             function redirect() {
-                window.location.href = "codigo.html";
+                window.location.href = "codigo.php";
             }
         </script>
-    </div>
     </body>
     </html>

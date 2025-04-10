@@ -16,7 +16,7 @@
         </form>
         <script>
             function redirect() {
-                window.location.href = "recuperacaodesenha.html";
+                window.location.href = "recuperacaodesenha.php";
             }
         </script>
       

@@ -15,8 +15,8 @@
             <button type="submit">Entrar</button>
         </form>
         <div class="links">
-            <a href="index.html" class="a">Criar conta</a> | 
-            <a href="usuario.html" class="a">Esqueci a senha</a>
+            <a href="index.php" class="a">Criar conta</a> | 
+            <a href="usuario.php" class="a">Esqueci a senha</a>
         </div>
     </div>
 </body>

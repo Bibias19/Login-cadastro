@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="stylerec.css">
     <script>
         function redirect() {
-            window.location.href = "login.html";
+            window.location.href = "login.php";
         }
     </script>
 </head>
